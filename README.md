@@ -11,3 +11,5 @@ Video ekleme, silme
 ![image](https://github.com/user-attachments/assets/a2feb635-e72a-416c-98e6-c28efa7a9102)
 
 Uygulama Çalışmak İçin Selected_files.json dosyasına ihtiyaç duyar. Uygulama ilk açıldığında bu dosya uygulamın bulunduğu dizin içinde otomatik oluşturulur.
+
+Uygulamanın Yeni Sürümü çıktığı Takdirde Eğer Uyarı Belirtilmişse Lütfen Selected_Files.json'u silin.
